@@ -10,7 +10,6 @@ The data contained features like age, gender, marital status, categories of prod
  Product_ID: Unique ID of the product. There are a total of 3623 products in the dataset. 
 
  Gender: indicates the gender of the person making the transaction. 
-
  Occupation: shows the occupation of the user, already labelled with numbers 0 to 20. 
 
  City_Category: User's living city category. Cities are categorized into 3 different categories 'A', 'B' and 'C'. 
